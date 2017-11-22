@@ -1,2 +1,2 @@
 # golangreact
-nothing
+hello
